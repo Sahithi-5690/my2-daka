@@ -21,3 +21,14 @@ Jaipur is the capital and largets city of the INDIAN State of ***Rajasthan***. J
 * Khulfi
 
 [link to Mystats.md](https://github.com/Sahithi-5690/my2-daka/blob/main/MyStats.md)
+
+### Sports I recommend
+**Sports** is important to everyone life. It helps to maintain balance between Physical and mental fitness. I used to be an athlete in my childhood. I love playing **Badminton**, **Ko-Ko** and **Tennis**. Sports I recommend everyone to participate are noted below.
+
+| Sport | Reason for recommendation | Hours for week |
+| ------- | ----------------------- | -------------- |
+| Badmintion | Stamina and Patience | 20 hours |
+| Ko-Ko |  Stamina and Tactics | 20 hours |
+| Tennis | Tactics and Co-ordibation | 25 hours |
+
+
