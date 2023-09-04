@@ -20,5 +20,4 @@ Jaipur is the capital and largets city of the INDIAN State of ***Rajasthan***. J
 * Keema Baati
 * Khulfi
 
-[link to Mystats.md] (![Sahithi Image](https://github.com/Sahithi-5690/my2-daka/assets/143016526/a5d9bed1-c827-407d-9596-7c01b41cb349)
-)
+[link to Mystats.md] (https://github.com/Sahithi-5690/my2-daka/blob/main/MyStats.md)
