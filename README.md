@@ -31,4 +31,9 @@ Jaipur is the capital and largets city of the INDIAN State of ***Rajasthan***. J
 | Ko-Ko |  Stamina and Tactics | 20 hours |
 | Tennis | Tactics and Co-ordibation | 25 hours |
 
+### Quotes
 
+> " The important thing is not to stop questioning."
+> -*Albert Einstein* <br>
+> "The greatest enemy of knowledge is not ignorance, it is the illusion of Knowledge."
+> -* Stephen Hawking*
